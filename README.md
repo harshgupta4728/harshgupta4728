@@ -1,3 +1,4 @@
+![logo](https://github.com/harshgupta4728/harshgupta4728/blob/main/githubbanner.jpeg)
 <h1 align="center">Hi 👋, I'm Harsh Gupta</h1>
 <h3 align="center">An Aspiring Data Analyst from India</h3>
 
