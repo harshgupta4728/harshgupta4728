@@ -1,5 +1,38 @@
-# 💫 About Me:
-I'm currently working on:<br>Optimizing data structures and algorithms, creating a recommendation system for an e-commerce platform, and enhancing a travel booking website with dark themes and improved UI.<br><br>I'm looking to collaborate on:<br>Building software solutions, particularly in areas involving NumPy, Pandas, SQL, and optimizing algorithms for data analysis tasks.<br><br>I'm looking for help with:<br>Improving proficiency in advanced data structures, algorithms, and French language skills.<br><br>I'm currently learning:<br>Data structures and algorithms, web development, machine learning, and French.<br><br>Ask me about:<br>Optimizing algorithms, working with NumPy and Pandas for data analysis, and creating seamless user experiences in web development.<br><br>Fun fact:<br>I'm balancing advanced coding projects with learning a new language—French!
+Hi there, I'm Harsh Gupta 👋
+I'm a Computer Science Engineering student specializing in building full-stack applications powered by AI and Computer Vision. I have a strong foundation in Data Structures and Algorithms, proven by solving over 850+ problems on platforms like LeetCode and GeeksforGeeks.
+
+🚀 My Main Projects
+Here's a look at some of the applications I've built:
+
+Project
+
+Description
+
+Key Technologies
+
+🤖 Facial Recognition Attendance
+
+An end-to-end system that automates attendance tracking from video feeds with 98% accuracy using deep learning.
+
+Python, OpenCV, YOLOv11, ArcFace
+
+🧠 Prodify - AI Coach
+
+A full-stack MERN platform with a Gemini API-powered chatbot to help students with DSA preparation.
+
+React, Node.js, Express, MongoDB, JWT
+
+🧮 Mathly - AI Math Solver
+
+A real-time desktop app that recognizes and solves handwritten or printed math equations from a camera.
+
+Python, OpenCV, OCR, Tkinter, SymPy
+
+🤝 I'm looking to collaborate on: Challenging projects in Computer Vision, Deep Learning, and Full-Stack Web Development.
+
+💬 Ask me about: Python, AI/ML, Computer Vision with OpenCV, or building secure RESTful APIs with Node.js and Express.
+
+😄 Fun fact: I'm balancing my coding projects with learning a new language—French!
 
 
 ## 🌐 Socials:
